@@ -6,3 +6,4 @@ Word link for filter applied original and enhanced images: https://1drv.ms/w/c/1
 <img src="img3.jpg" >
 <img src="img4.jpg" >
 
+We used many filters in combination with each other .
